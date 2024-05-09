@@ -612,7 +612,7 @@
   row-gap: 15px;
 }
 .accordion__arrow {
-  background-image: url(../../../images/Arrow\ -\ Down\ 4.svg);
+  background-image: url(../../images/Arrow\ -\ Down\ 4.svg);
   background-position: center;
   background-repeat: no-repeat;
   outline: 2px solid var(--accordion-color);
@@ -635,7 +635,7 @@
   outline: 2px solid var(--accordion-hover-color);
   outline-offset: -2px;
   background-color: var(--accordion-hover-color);
-  background-image: url(../../../images/Arrow\ -\ Down\ 2.svg);
+  background-image: url(../../images/Arrow\ -\ Down\ 2.svg);
   background-repeat: no-repeat;
 }
 .accordion__text {
